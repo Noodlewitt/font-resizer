@@ -1,0 +1,27 @@
+{
+  "name": "font-resizer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Noodlewitt/font-resizer",
+  "authors": [
+    "noodlewitt@gmail.com"
+  ],
+  "description": "Font resizer plugin using jquery and percentage fonts",
+  "keywords": [
+    "font",
+    "resizer",
+    "fontresizer",
+    "jquery",
+    "plugin"
+  ],
+  "dependencies": {
+    "jquery": ">=1.2"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
